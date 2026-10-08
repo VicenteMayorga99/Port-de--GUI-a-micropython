@@ -13,3 +13,10 @@ El proyecto está en su etapa inicial. Aún no cuenta con una implementación fu
 ## Licencia
 
 Las aportaciones propias usan la licencia MIT. La biblioteca original µGUI conserva sus términos y avisos de autoría. Ambos textos se incluyen en [LICENSE](LICENSE).
+
+
+## Grupo de trabajo
+
+    - César Cárcamo
+    - Mauro Jaque
+    - Vicente Mayorga
